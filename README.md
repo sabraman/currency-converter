@@ -1,5 +1,5 @@
 # Currency Converter
-[LIVE]()
+[LIVE](https://currency-converter-6jugpdssx-sabraman.vercel.app/)
 
 The app is a [__Next.JS__](https://nextjs.org) project which utilizes the __SSR__ (Server Side Rendering) feature and uses the third-party data fetching service, __SWR__ This makes sure that data will always be available whenever you use this app.
 
