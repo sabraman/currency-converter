@@ -66,13 +66,13 @@ _Documentation for the options can be found [here](https://swr.vercel.app/docs/o
 
 ---
 
-CSS Framework: [__Chakra UI__](https://chakra-ui.com/) \
+## CSS Framework: [__Chakra UI__](https://chakra-ui.com/)
 Responsive and supports both light and dark mode. Just click the gear icon at the bottom to toggle color mode.
 
-![Dark Desktop](https://github.com/sabraman/currency-converter/blob/develop/public/images/dark-desktop.png?raw=true)
-![Light Desktop](https://github.com/sabraman/currency-converter/blob/develop/public/images/light-desktop.png?raw=true)
-![Dark Mobile](https://github.com/sabraman/currency-converter/blob/develop/public/images/dark-mobile.png?raw=true)
-![Light Mobile](https://github.com/sabraman/currency-converter/blob/develop/public/images/light-mobile.png?raw=true)
+![Dark Desktop](https://github.com/sabraman/currency-converter/blob/main/public/images/dark-desktop.png?raw=true)
+![Light Desktop](https://github.com/sabraman/currency-converter/blob/main/public/images/light-desktop.png?raw=true)
+![Dark Mobile](https://github.com/sabraman/currency-converter/blob/main/public/images/dark-mobile.png?raw=true)
+![Light Mobile](https://github.com/sabraman/currency-converter/blob/main/public/images/light-mobile.png?raw=true)
 
 ---
 
